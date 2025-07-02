@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developer with experience in web development, particularly using the MERN stack. Proficient<br>in HTML, CSS, JavaScript, and Java. Active contributor to coding platforms like LeetCode and GitHub. Skilled in<br>React, Node.js, Express, and MongoDB. Strong foundation in data structures, algorithms, and database<br>management.
+DevOps Engineer and Cybersecurity Enthusiast with a strong foundation in software development and cloud infrastructure. Skilled in designing, deploying, and managing scalable and secure applications using modern DevOps tools and practices. Proficient in Python and Java, with hands-on experience in Linux environments, containerization (Docker), orchestration (Kubernetes), and CI/CD pipelines (Jenkins). Experienced in working with leading cloud platforms such as Oracle Cloud Infrastructure (OCI) and AWS. Passionate about security, automation, and system reliability, with a solid understanding of DBMS, programming principles, and system design.
 
 
 ## 🌐 Socials:
